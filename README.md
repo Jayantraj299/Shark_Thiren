@@ -37,4 +37,4 @@ The operating system is built in C++ using the Arduino framework, structured aro
 
 The graphical environment is built on the Adafruit GFX library, operating in INITR\_BLACKTAB mode. The interface relies on a compact, nested folder structure (Wi-Fi, Bluetooth, Games, Settings) to organize tools cleanly on the 128x160 display. Visual feedback is prioritized through color-coded status bars (Red for recording, Blue for BLE, Green for battery health) and a dynamic, space-padded string rendering system that allows for smooth dot-animations without forcing full-screen flicker refreshes.  
 The system's idle state features **Massicot**, the custom cyber-shark mascot, rendered as a direct RGB bitmap from PROGMEM.  
-# Shark_Thiren-
+
